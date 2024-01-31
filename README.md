@@ -13,11 +13,11 @@ This project implements a Blog API using FastAPI. It provides endpoints for mana
 
 1. Clone the repository:
 
-   git clone https://github.com/Atul245/Blog-Api.git
+   git clone 
    
 2. Change to the project directory:
 
-   cd https://github.com/Atul245/Blog-Api.git
+   cd "change to the project directory"
    
 3. Install the required dependencies using pip:
     
